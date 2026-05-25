@@ -64,6 +64,7 @@
 + URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_change_password.md
 
 6. api_testor_create_user
-+ URL: 
++ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_create_user.md
+
 
 ```
