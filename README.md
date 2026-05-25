@@ -66,5 +66,8 @@
 6. api_testor_create_user
 + URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_create_user.md
 
+7. api_testor_suite
++ URL: 
+
 
 ```
