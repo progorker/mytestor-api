@@ -52,8 +52,10 @@
 + URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_login.md
 
 2. api_testor_logout
-+ URL: 
++ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_logout.md
 
+3. api_testor_current_user
++ URL: 
 
 
 ```
