@@ -24,4 +24,12 @@
 + Demo Password: rzutomqahegpnyx
 + Demo Login Command: $) set @v_token = '_'; call api_testor_login( @v_token, 'mytestor', 'rzutomqahegpnyx' ); select @v_token;
 
+
+-------|__/-------------------------
+             TABLES
+------------------------------------
+
+1. testor_welcome
++ URL:
+
 ```
