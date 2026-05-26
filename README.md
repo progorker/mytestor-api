@@ -73,7 +73,7 @@
 
 6. api_testor_create_user
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_create_user.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_create_user.html
 
 7. api_testor_suite
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_suite.md
