@@ -79,6 +79,9 @@
 + URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_clean.md
 
 11. api_testor_test
++ URL: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_test.md
+
+12. api_testor_finish
 + URL: 
 
 ```
