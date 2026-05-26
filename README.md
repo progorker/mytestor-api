@@ -65,7 +65,7 @@
 
 4. api_testor_user_rights
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_user_rights.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_user_rights.html
 
 5. api_testor_change_password
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_change_password.md
