@@ -53,7 +53,7 @@
 
 1. api_testor_login
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_login.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_login.html
 
 2. api_testor_logout
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_logout.md
