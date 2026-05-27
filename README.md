@@ -107,6 +107,11 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_option.md
 + HTML:
 
+15. api_testor_e_functions
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_e_functions.md
++ HTML:
+
+
 
 
 ```
