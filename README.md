@@ -175,5 +175,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_same.md
 + HTML:
 
+32. api_testor_not_same
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_same.md
++ HTML: 
+
 
 ```
