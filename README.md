@@ -135,6 +135,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_true.md
 + HTML:
 
+22. api_testor_not_true
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_true.md
++ HTML: 
 
 
 ```
