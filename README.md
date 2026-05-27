@@ -147,5 +147,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_error.md
 + HTML: 
 
+25. api_testor_equals
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_equals.md
++ HTML:
+
 
 ```
