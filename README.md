@@ -155,5 +155,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_equals.md
 + HTML:
 
+27. api_testor_greater_than
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_greater_than.md
++ HTML:
+
 
 ```
