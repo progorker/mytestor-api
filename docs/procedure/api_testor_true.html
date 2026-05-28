@@ -132,13 +132,12 @@ $) set @v_case_id = -1; set @v_suite_id = -1; call api_testor_suite_case( '8003c
 +------------+-------------+
 
     ----------------------------
-
-$) set @v_test_id = -1; set @v_suite_id = 1; set @v_case_id = 2; call api_testor_true( '8003c6c90940e847a8e01897b4a93e4d', @v_test_id, @v_suite_id, @v_case_id, 'greater.1', 2 > 1 ); select @v_test_id, @v_suite_id, @v_case_id;
     
   </div></div>
 
   <div class="dtt-page-counter-cover"><div class="dtt-page-counter-inner"><div style="top: 10px" class="dtt-page-counter"><div>2</div></div></div></div>
-  <div class="dtt-page"><div class="dtt-page-inner">
+  <div class="dtt-page"><div class="dtt-page-inner">$) set @v_test_id = -1; set @v_suite_id = 1; set @v_case_id = 2; call api_testor_true( '8003c6c90940e847a8e01897b4a93e4d', @v_test_id, @v_suite_id, @v_case_id, 'greater.1', 2 > 1 ); select @v_test_id, @v_suite_id, @v_case_id;
+
     ----------------------------
 
 +------------+-------------+------------+
@@ -160,10 +159,9 @@ $) set @v_test_id = -1; set @v_suite_id = 1; set @v_case_id = 2; call api_testor
 +------------+-------------+------------+
 
     ----------------------------
-
-$) call api_testor_finish( '8003c6c90940e847a8e01897b4a93e4d', 1 );
     
-  </div><div class="dtt-page-inner" style="border-left: dashed 2px gainsboro; width: 95mm; padding-left: 5px;">
+  </div><div class="dtt-page-inner" style="border-left: dashed 2px gainsboro; width: 95mm; padding-left: 5px;">$) call api_testor_finish( '8003c6c90940e847a8e01897b4a93e4d', 1 );
+
     ----------------------------
 
 +-------------+-----------+------------------------------------------------------------------+
@@ -182,7 +180,11 @@ Expected: true
 |      16 | RED    | sterry |  1 |             1 |            1 |          2 |          1 |
 +---------+--------+--------+----+---------------+--------------+------------+------------+
 1 row in set (0.27 sec)
+    
+  </div></div>
 
+  <div class="dtt-page-counter-cover"><div class="dtt-page-counter-inner"><div style="top: 10px" class="dtt-page-counter"><div>3</div></div></div></div>
+  <div class="dtt-page"><div class="dtt-page-inner">
 +------------------------------------------+-----------------------------------------------+
 | To re-print:                             | To get source file of [a] test case:          |
 +------------------------------------------+-----------------------------------------------+
@@ -191,11 +193,7 @@ Expected: true
 1 row in set (0.27 sec)
 
     ----------------------------
-    
-  </div></div>
 
-  <div class="dtt-page-counter-cover"><div class="dtt-page-counter-inner"><div style="top: 10px" class="dtt-page-counter"><div>3</div></div></div></div>
-  <div class="dtt-page"><div class="dtt-page-inner">
 $) call api_testor_success( '8003c6c90940e847a8e01897b4a93e4d', 1 );
 
     ----------------------------
