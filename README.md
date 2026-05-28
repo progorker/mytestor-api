@@ -141,7 +141,7 @@
 
 23. api_testor_success
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_success.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_success.html
 
 24. api_testor_error
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_error.md
