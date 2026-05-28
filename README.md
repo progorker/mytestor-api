@@ -133,7 +133,7 @@
 
 21. api_testor_true
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_true.md
-+ HTML:
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_true.html
 
 22. api_testor_not_true
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_true.md
