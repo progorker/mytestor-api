@@ -113,7 +113,7 @@
 
 16. api_testor_e_procedures
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_e_procedures.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_e_procedures.html
 
 17. api_testor_e_tables
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_e_tables.md
