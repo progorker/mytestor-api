@@ -129,7 +129,7 @@
 
 20. api_testor_source_list
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_source_list.md
-+ HTML:
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_source_list.html
 
 21. api_testor_true
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_true.md
