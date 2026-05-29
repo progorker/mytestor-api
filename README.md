@@ -185,7 +185,7 @@
 
 34. api_testor_not_contains
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_contains.md
-+ HTML: 
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_not_contains.html
 
 
 ```
