@@ -187,5 +187,9 @@
 + MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_not_contains.md
 + HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_not_contains.html
 
+35. api_testor_failed
++ MD: https://github.com/progorker/mytestor-api/blob/main/procedure/api_testor_failed.md
++ HTML: https://progorker.github.io/mytestor-api/procedure/api_testor_failed.html
+
 
 ```
